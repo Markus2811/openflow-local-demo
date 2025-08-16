@@ -2,9 +2,9 @@
 
 ## Setup
 1) `.env` mit 
-# Oracle
+
 ORACLE_PASSWORD=***
-# NiFi
+
 NIFI_USER=***
 NIFI_PASS=***
 
